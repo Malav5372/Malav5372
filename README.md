@@ -8,4 +8,6 @@
 
 ### • [SupernovaSR](https://github.com/Malav5372/SupernovaSR)
 
+### • [TensorDeepArtify](https://github.com/Malav5372/TensorDeepArtify)
+
 
