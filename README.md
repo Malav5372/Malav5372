@@ -14,7 +14,7 @@
 
 ### • [Xpose](https://github.com/Malav5372/Xpose)
 
-### Take a stroll through the fascinating world of reinforcement learning, where my projects are the VIPs, and boredom is not on the guest list! 🚀✨ :
+### Take a stroll through the fascinating world of reinforcement learning, where my projects are the VIPs, and boredom is not on the guest list! 🚀✨
  
 ### • [SuperMarioPPO](https://github.com/Malav5372/SuperMarioPPO/tree/main/SuperMarioPPO) : SuperMarioPPO is a project that explores the potential of Proximal Policy Optimization (PPO), a reinforcement learning algorithm released by OpenAI, in the context of Super Mario.
 
