@@ -18,7 +18,7 @@
  
 ### • [SuperMarioPPO](https://github.com/Malav5372/SuperMarioPPO/tree/main/SuperMarioPPO) : Explore the potential of Proximal Policy Optimization (PPO), a reinforcement learning algorithm released by OpenAI, in the context of Super Mario game.
 
-### • [SuperMarioA3C](https://github.com/Malav5372/SuperMarioA3C) : 
+### • [SuperMarioA3C](https://github.com/Malav5372/SuperMarioA3C) : The Asynchronous Advantage Actor Critic (A3C) algorithm is a Deep Reinforcement Learning Algorithm developed by Google's DeepMind.
  
 
 
