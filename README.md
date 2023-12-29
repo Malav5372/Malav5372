@@ -6,4 +6,6 @@
 
 ### 🌟 Explore my curated collection of cutting-edge research projects that transcend the boundaries of Artificial Intelligence, Machine Learning, and Computer Vision/Graphics.
 
+#### SupernovaSR[https://github.com/Malav5372/SupernovaSR]
+
 
