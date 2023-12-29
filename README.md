@@ -16,7 +16,9 @@
 
 ### Checkout my creative projects in the realms of reinforcement learning:
  
-### • [SuperMarioPPO](https://github.com/Malav5372/SuperMarioPPO/tree/main/SuperMarioPPO)
+### • [SuperMarioPPO](https://github.com/Malav5372/SuperMarioPPO/tree/main/SuperMarioPPO) : SuperMarioPPO is a project that explores the potential of Proximal Policy Optimization (PPO), a reinforcement learning algorithm released by OpenAI, in the context of Super Mario game.
+
+### • [SuperMarioA3C]()
  
 
 
