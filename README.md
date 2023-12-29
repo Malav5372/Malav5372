@@ -4,7 +4,7 @@
 
 ### 🌐 Each of these areas has been a canvas for my research projects, where I've delved into the realms of enhancing image resolution 📈, crafting artistic Neural Style Transfer models 🎨, generating visually compelling images from text 📷✨, and much more. As you explore my repository, you'll witness the fusion of research and practice, where every line of code is a brushstroke in the canvas of tomorrow's intelligent and visually immersive technology 🚀. Join me in this exciting expedition 🌌, and let's shape the future together! 🔍🖥️
 
-### 🌟 Dive into my curated collection of research endeavors, where Artificial Intelligence, Machine Learning, and Computer Vision/Graphics throw the most intriguing soiree.
+### 🌟 Dive into my collection of research endeavors, where Artificial Intelligence, Machine Learning, and Computer Vision/Graphics throw the most intriguing soiree.
 
 ### • [SupernovaSR](https://github.com/Malav5372/SupernovaSR)
 
