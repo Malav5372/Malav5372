@@ -16,7 +16,7 @@
 
 ### Take a stroll through the fascinating world of reinforcement learning, where my projects are the VIPs, and boredom is not on the guest list! 🚀✨
  
-### • [SuperMarioPPO](https://github.com/Malav5372/SuperMarioPPO/tree/main/SuperMarioPPO) : SuperMarioPPO is a project that explores the potential of Proximal Policy Optimization (PPO), a reinforcement learning algorithm released by OpenAI, in the context of Super Mario.
+### • [SuperMarioPPO](https://github.com/Malav5372/SuperMarioPPO/tree/main/SuperMarioPPO) : SuperMarioPPO: Turning Super Mario into an algorithmic acrobat! Watch as Proximal Policy Optimization (PPO) takes Mario on a mind-bending joyride through the Mushroom Kingdom. It's AI meets Italian plumbing – a pixel-perfect performance that defies both gravity and Bowser! 🕹️🚀
 
 ### • [SuperMarioA3C](https://github.com/Malav5372/SuperMarioA3C) : SuperMarioA3C represents an endeavor that thoughtfully applies Asynchronous Advantage Actor-Critic (A3C) algorithm, a deep reinforcement algorithm developed by Google's DeepMind, to the context of the Super Mario game. This project, serves as a noteworthy example of the utilization of reinforcement learning techniques within the realm of gaming.
  
