@@ -14,4 +14,12 @@
 
 ### • [Xpose](https://github.com/Malav5372/Xpose)
 
+### Checkout my creative projects in the realms of reinforcement learning:
+ 
+### • [SuperMarioPPO]
+ 
+
+
+
+
 
