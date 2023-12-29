@@ -10,4 +10,6 @@
 
 ### • [TensorDeepArtify](https://github.com/Malav5372/TensorDeepArtify)
 
+### • [VisuNex](https://github.com/Malav5372/VisuNex)
+
 
