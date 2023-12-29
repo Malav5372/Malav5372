@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Malav5372/Malav5372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
