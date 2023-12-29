@@ -16,7 +16,7 @@
 
 ### Checkout my creative projects in the realms of reinforcement learning:
  
-### • [SuperMarioPPO]
+### • [SuperMarioPPO](https://github.com/Malav5372/SuperMarioPPO/tree/main/SuperMarioPPO)
  
 
 
