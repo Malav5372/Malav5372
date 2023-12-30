@@ -14,13 +14,13 @@
 
 ### • [Xpose](https://github.com/Malav5372/Xpose)
 
-### Explore the intriguing realm of reinforcement learning, where my experiments take center stage, and boredom is not in the guest list! 🚀✨ :
+### 🌟 Explore the intriguing realm of reinforcement learning, where my experiments take center stage, and boredom is not in the guest list! 🚀✨ :
  
 ### • [SuperMarioPPO](https://github.com/Malav5372/SuperMarioPPO/tree/main/SuperMarioPPO) : SuperMarioPPO: Turning Super Mario into an algorithmic acrobat! Watch as Proximal Policy Optimization (PPO) takes Mario on a mind-bending joyride through the Mushroom Kingdom. It's AI meets Italian plumbing – a pixel-perfect performance that defies both gravity and Bowser! 🕹️🚀
 
 ### • [SuperMarioA3C](https://github.com/Malav5372/SuperMarioA3C) : SuperMarioA3C represents an endeavor that thoughtfully applies Asynchronous Advantage Actor-Critic (A3C) algorithm, a deep reinforcement algorithm developed by Google's DeepMind, to the context of the Super Mario game. This project, serves as a noteworthy example of the utilization of reinforcement learning techniques within the realm of gaming.
 
-### Dive into my realm of cutting-edge research in Computer Graphics and Vision, where precision meets innovation. Explore the transformative potential of converting 3D complexities into intricate 2D projections, alongside pushing the boundaries of web-based executions in advanced physics simulations and GPGPU computations.
+### 🌟 Delve into my research in Computer Graphics and Vision, where pixels meet precision and visualizations redefine innovation! :
 
 ### • [Edge2Mesh](https://github.com/Malav5372/Edge2Mesh)
 
