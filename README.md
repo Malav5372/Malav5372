@@ -20,7 +20,11 @@
 
 ### • [SuperMarioA3C](https://github.com/Malav5372/SuperMarioA3C) : SuperMarioA3C represents an endeavor that thoughtfully applies Asynchronous Advantage Actor-Critic (A3C) algorithm, a deep reinforcement algorithm developed by Google's DeepMind, to the context of the Super Mario game. This project, serves as a noteworthy example of the utilization of reinforcement learning techniques within the realm of gaming.
 
-### • [Edge2Mesh]()
+### Dive into my realm of cutting-edge research in Computer Graphics and Vision, where precision meets innovation. Explore the transformative potential of converting 3D complexities into intricate 2D projections, alongside pushing the boundaries of web-based executions in advanced physics simulations and GPGPU computations.
+
+### • [Edge2Mesh](https://github.com/Malav5372/Edge2Mesh)
+
+### • [GPUIO]()
  
 
 
