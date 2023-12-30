@@ -6,7 +6,7 @@
 
 ### 🌟 Dive into my collection of research endeavors, where Artificial Intelligence, Machine Learning, and Computer Vision/Graphics throw the most intriguing soiree.
 
-### • [SupernovaSR](https://github.com/Malav5372/SupernovaSR)
+#### • [SupernovaSR](https://github.com/Malav5372/SupernovaSR)
 
 ### • [TensorDeepArtify](https://github.com/Malav5372/TensorDeepArtify)
 
