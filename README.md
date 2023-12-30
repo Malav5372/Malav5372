@@ -24,7 +24,7 @@
 
 ### • [Edge2Mesh](https://github.com/Malav5372/Edge2Mesh)
 
-### • [GPUIO]()
+### • [GPUIO](https://github.com/Malav5372/gpuio)
  
 
 
