@@ -26,7 +26,7 @@
 
 ### • [GPUIO](https://github.com/Malav5372/gpuio) : Explore GPUIO, an advanced research project in Computer Graphics, facilitating web-based execution of physics simulations and GPGPU computations, pushing the boundaries of computational research within web browsers.
 
-###  🌟 Dive into the heart of computer science with the essence of Data Structures and Algorithms (DSA). Mastering DSA is the key to efficient problem-solving, optimized code, and building robust software. Explore the foundations of computational excellence in my repository. 🚀
+###  🌟 Mastering DSA is the key to efficient problem-solving, optimized code, and building robust software. Explore the foundations of computational excellence in my repository. 🚀
 
 ### • [Py2CppDSA]()
  
