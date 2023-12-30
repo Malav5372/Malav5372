@@ -22,7 +22,7 @@
 
 ### 🌟 Delve into my research in Computer Graphics and Vision, where pixels meet precision and visualizations redefine innovation! :
 
-### • [Edge2Mesh](https://github.com/Malav5372/Edge2Mesh) : Explore Edge2Mesh, a cutting-edge research tool for advanced 2D line projection and silhouette mesh generation in the realm of 3D objects. This JavaScript-based tool makes precise 2D projections from 3D models.
+### • [Edge2Mesh](https://github.com/Malav5372/Edge2Mesh) : Explore Edge2Mesh, a cutting-edge research tool for advanced 2D line projection and silhouette mesh generation in the realm of 3D objects.
 
 ### • [GPUIO](https://github.com/Malav5372/gpuio) : Explore GPUIO, an advanced research project in Computer Graphics, facilitating web-based execution of physics simulations and GPGPU computations, pushing the boundaries of computational research within web browsers.
  
