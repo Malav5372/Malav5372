@@ -8,7 +8,7 @@
 
 ### • [SupernovaSR](https://github.com/Malav5372/SupernovaSR) : Explore SupernovaSR an advanced Single Image Super Resolution project based on the research paper : [Deep Learning for Single Image Super-Resolution](https://arxiv.org/abs/1808.03344) that addresses the crucial challenge of enhancing image resolution in real-world scenarios where traditional methods often fall short due to their inability to accurately model the complexities of image degradation. By introducing a novel and practical degradation model, SupernovaSR aims to significantly improve the quality and practicality of deep Super-Resolution techniques, ultimately redefining the landscape of image enhancement and restoration. 
 
-### • [TensorDeepArtify](https://github.com/Malav5372/TensorDeepArtify) : Explore TensorDeepArtify a distinguished research endeavor in the realm of neural style transfer based on 3 research papers namely Image Style Transfer Using Convolutional Neural Networks() that exemplifies the fusion of deep learning and computer vision, offering a gateway to the seamless application of artistic and neural style transfer techniques to images.
+### • [TensorDeepArtify](https://github.com/Malav5372/TensorDeepArtify) : Explore TensorDeepArtify a distinguished research endeavor in the realm of neural style transfer based on 3 research papers namely Image Style Transfer Using Convolutional Neural Networks(https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), that exemplifies the fusion of deep learning and computer vision, offering a gateway to the seamless application of artistic and neural style transfer techniques to images.
 
 
 ### • [VisuNex](https://github.com/Malav5372/VisuNex)
