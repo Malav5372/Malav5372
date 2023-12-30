@@ -14,7 +14,7 @@
 
 ### • [Xpose](https://github.com/Malav5372/Xpose)
 
-### Explore the intriguing realm of reinforcement learning, where my experiments take center stage, and boredom is not in the guest list! 🚀✨
+### Explore the intriguing realm of reinforcement learning, where my experiments take center stage, and boredom is not in the guest list! 🚀✨ :
  
 ### • [SuperMarioPPO](https://github.com/Malav5372/SuperMarioPPO/tree/main/SuperMarioPPO) : SuperMarioPPO: Turning Super Mario into an algorithmic acrobat! Watch as Proximal Policy Optimization (PPO) takes Mario on a mind-bending joyride through the Mushroom Kingdom. It's AI meets Italian plumbing – a pixel-perfect performance that defies both gravity and Bowser! 🕹️🚀
 
