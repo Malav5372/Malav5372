@@ -28,6 +28,10 @@
 
 ### • [HyperPOpt](https://github.com/Malav5372/HyperPOpt) : Welcome to HyperPOpt, your gateway to effortless hyperparameter optimization across a powerful array of machine learning libraries, including Keras, Scikit-Learn, XGBoost, LightGBM, CatBoost, and RGF.
 
+### ⭐ Bayesian optimization is crucial for efficiently optimizing complex and costly functions, such as tuning hyperparameters in machine learning models. Its probabilistic modeling enables smart decision-making, guiding the search toward promising regions. To harness its power, explore my repository for practical implementations:
+
+### • [BayesMax]() :
+
 ### 🌟 Mastering DSA is the key to efficient problem-solving, optimized code, and building robust software. Explore the foundations of computational excellence in my repository.
 
 ### • [Py2CppDSA](https://github.com/Malav5372/Py2CppDSA) : Core Data structures and algorithms implemented in Python as well as C++.
