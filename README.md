@@ -1,6 +1,6 @@
 ## Hey👋 Nice to see you!
 
-Hey there! I'm Malav, a tech enthusiast diving into the fascinating realms of Artificial Intelligence, Machine Learning, and Computer Vision/Graphics. My journey involves exploring cool tech like Super Resolution, Neural Style Transfer, and Text-to-Image Generation, along with delving into Natural Language Processing, Reinforcement Learning, Computer Graphics, and Vision. Join me on this adventure of innovation and creativity!
+### Hey there! I'm Malav, a tech enthusiast diving into the fascinating realms of Artificial Intelligence, Machine Learning, and Computer Vision/Graphics. My journey involves exploring cool tech like Super Resolution, Neural Style Transfer, and Text-to-Image Generation, along with delving into Natural Language Processing, Reinforcement Learning, Computer Graphics, and Vision. Join me on this adventure of innovation and creativity!
 
 ### 🌟 Dive into my collection of research endeavors, where Artificial Intelligence, Machine Learning, and Computer Vision/Graphics throw the most intriguing soiree.
 
