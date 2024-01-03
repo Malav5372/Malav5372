@@ -12,7 +12,7 @@
 
 ### • [Xpose](https://github.com/Malav5372/Xpose) : Xpose is a computer vision project specializing in high-precision human pose estimation. Leveraging state-of-the-art PyTorch-based deep learning and YOLOv5 object detection,
 
-### 🌟 Explore the intriguing realm of reinforcement learning, where my experiments take center stage, and boredom is not in the guest list! 🚀✨ :
+### ⭐ Explore the intriguing realm of reinforcement learning, where my experiments take center stage, and boredom is not in the guest list! 🚀✨ :
  
 ### • [SuperMarioPPO](https://github.com/Malav5372/SuperMarioPPO/tree/main/SuperMarioPPO) : SuperMarioPPO: Turning Super Mario into an algorithmic acrobat! Watch as Proximal Policy Optimization (PPO), a reinforcement algorithm by OpenAI, takes Mario on a mind-bending joyride through the Mushroom Kingdom. It's AI meets Italian plumbing – a pixel-perfect performance that defies both gravity and Bowser! 🕹️🚀
 
@@ -23,6 +23,8 @@
 ### • [Edge2Mesh](https://github.com/Malav5372/Edge2Mesh) : Explore Edge2Mesh, a cutting-edge research tool for advanced 2D line projection and silhouette mesh generation in the realm of 3D objects.
 
 ### • [GPUIO](https://github.com/Malav5372/gpuio) : Explore GPUIO, an advanced research endeavor in Computer Graphics, facilitating web-based execution of physics simulations and GPGPU computations, pushing the boundaries of computational research within web browsers.
+
+### ⭐ Hyperparameter tuning is crucial for optimizing machine learning model performance by adjusting parameters that govern its learning process. Fine-tuning these hyperparameters enhances accuracy and generalization. It ensures the model is well-calibrated to the specific dataset, improving overall predictive capabilities. For further insights, explore my repository:
 
 ### • [HyperPOpt]() :
 
