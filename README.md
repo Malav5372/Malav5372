@@ -26,11 +26,11 @@
 
 ### ⭐ Hyperparameter tuning is crucial for optimizing machine learning model performance by adjusting parameters that govern its learning process. Fine-tuning these hyperparameters enhances accuracy and generalization. It ensures the model is well-calibrated to the specific dataset, improving overall predictive capabilities. For further insights, explore my repository:
 
-### • [HyperPOpt](https://github.com/Malav5372/HyperPOpt) : Welcome to HyperPOpt, your gateway to effortless hyperparameter optimization across a powerful array of machine learning libraries, including Keras, Scikit-Learn, XGBoost, LightGBM, CatBoost, and RGF.
+### • [HyperPOpt](https://github.com/Malav5372/HyperPOpt)
 
 ### ⭐ Bayesian optimization is crucial for efficiently optimizing complex and costly functions, such as tuning hyperparameters in machine learning models. Its probabilistic modeling enables smart decision-making, guiding the search toward promising regions. To harness its power, explore my repository for practical implementations:
 
-### • [BayesMax](https://github.com/Malav5372/BayesMax) :
+### • [BayesMax](https://github.com/Malav5372/BayesMax)
 
 ### 🌟 Mastering DSA is the key to efficient problem-solving, optimized code, and building robust software. Explore the foundations of computational excellence in my repository.
 
