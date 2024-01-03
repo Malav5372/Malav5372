@@ -1,5 +1,15 @@
 ## Hey👋 Nice to see you!
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
 ### Hey there! I'm Malav, a tech enthusiast diving into the fascinating realms of Artificial Intelligence, Machine Learning, and Computer Vision/Graphics. My journey involves exploring cool tech like Super Resolution, Neural Style Transfer, and Text-to-Image Generation, along with delving into Natural Language Processing, Reinforcement Learning, Computer Graphics, and Vision. Join me on this adventure of innovation and creativity!
 
 ### Dive into my collection of research endeavors, where Artificial Intelligence, Machine Learning, and Computer Vision/Graphics throw the most intriguing soiree.
