@@ -1,5 +1,5 @@
 ## Hey👋 Nice to see you!
-
+![MachineLearning](https://img.shields.io/badge/MachineLearning-F7DF1E?style=flat&logo=MachineLearning&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
