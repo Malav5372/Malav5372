@@ -1,6 +1,6 @@
 ## Hey👋 Nice to see you!
 ![ArtificialIntelligence](https://img.shields.io/badge/ArtificialIntelligence-F7DF1E?style=flat&logo=AI&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-3776AB?style=flat&logo=MachineLearning&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-3776AB?style=flat-square&logo=MachineLearning&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
