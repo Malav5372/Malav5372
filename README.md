@@ -41,7 +41,7 @@
 
 ### • [HyperPOpt](https://github.com/Malav5372/HyperPOpt)
 
-### Bayesian optimization is crucial for efficiently optimizing complex and costly functions, such as tuning hyperparameters in machine learning models. Its probabilistic modeling enables smart decision-making, guiding the search toward promising regions. To harness its power, explore my repository for practical implementations:
+### Bayesian optimization is crucial for efficiently optimizing complex and costly functions, such as tuning hyperparameters in machine learning models. Its probabilistic modeling enables smart decision-making, guiding the search toward promising regions. Explore my repository for further insights:
 
 ### • [BayesMax](https://github.com/Malav5372/BayesMax)
 
