@@ -13,7 +13,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Hey there! I'm Malav, a tech enthusiast diving into the fascinating realms of Artificial Intelligence, Machine Learning, and Computer Vision/Graphics. My journey involves exploring cool tech like Super Resolution, Neural Style Transfer, and Text-to-Image Generation, along with delving into Natural Language Processing, Reinforcement Learning, Computer Graphics, and Vision. Join me on this adventure of innovation and creativity!
+### Hey there! I'm Malav, a tech enthusiast diving into the fascinating realms of Artificial Intelligence, Machine Learning, and Computer Vision/Graphics.
 
 ### Dive into my collection of research endeavors, where Artificial Intelligence, Machine Learning, and Computer Vision/Graphics throw the most intriguing soiree.
 
