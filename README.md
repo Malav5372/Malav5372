@@ -17,7 +17,7 @@
 
 ### Dive into my collection of research endeavors, where Artificial Intelligence, Machine Learning, and Computer Vision/Graphics throw the most intriguing soiree.
 
-### • [SupernovaSR](https://github.com/Malav5372/SupernovaSR) : Explore SupernovaSR an advanced Single Image Super Resolution project based on the research paper : [Deep Learning for Single Image Super-Resolution](https://arxiv.org/abs/1808.03344).
+### • [SupernovaSR](https://github.com/Malav5372/SupernovaSR) : Explore this Single Image Super Resolution project based on the research paper : [Deep Learning for Single Image Super-Resolution](https://arxiv.org/abs/1808.03344).
 
 ### • [TensorDeepArtify](https://github.com/Malav5372/TensorDeepArtify) : Explore TensorDeepArtify a distinguished research endeavor in the realm of neural artistic style transfer based on 3 research papers: [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), [Artistic style transfer for videos](https://arxiv.org/abs/1604.08610) and [Preserving Color in Neural Artistic Style Transfer](https://arxiv.org/abs/1606.05897). Elevate artistic expression and discover the magic of image and video transformation.
 
