@@ -13,7 +13,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Hey there! I'm Malav, a tech enthusiast diving into the fascinating realms of Artificial Intelligence, Machine Learning, and Computer Vision/Graphics.
+### Hey there! I'm Malav, a tech enthusiast diving into the fascinating realms of AI and ML.
 
  
 
