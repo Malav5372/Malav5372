@@ -1,4 +1,4 @@
-Hi, Nice to see you.
+#### Hi, Nice to see you.
 
 ![ArtificialIntelligence](https://img.shields.io/badge/ArtificialIntelligence-F7DF1E?style=flat-square&logo=AI&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-3776AB?style=flat-square&logo=MachineLearning&logoColor=black)
@@ -13,7 +13,7 @@ Hi, Nice to see you.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Hey there! I'm Malav, a tech enthusiast interested in AI and ML.
+I'm Malav, a tech enthusiast interested in AI and ML.
 
  
 
