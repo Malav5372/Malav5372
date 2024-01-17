@@ -1,4 +1,4 @@
-## Hey, Nice to see you !
+## Hi, Nice to see you.
 
 ![ArtificialIntelligence](https://img.shields.io/badge/ArtificialIntelligence-F7DF1E?style=flat-square&logo=AI&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-3776AB?style=flat-square&logo=MachineLearning&logoColor=black)
